@@ -6,7 +6,7 @@ namespace Grades
 {
     internal class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             Console.Write("Enter how many grades  you want to input: ");
             int numberofgrades = Convert.ToInt32(Console.ReadLine());
