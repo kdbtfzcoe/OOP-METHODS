@@ -17,8 +17,6 @@ namespace Grades
 
             double average = Average(grades);
 
-            
-
             Console.WriteLine("END OF USER INPUT");
 
             Console.WriteLine("PROCESSING GRADES....");
